@@ -1,0 +1,20 @@
+**Game name:**
+
+Virtua Fighter 4 - Evolution (USA)
+
+**Game ID:**
+
+SLUS-20616
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F62FBE3E2B35F42EBF672F94EA9B8C5B22E8E996
+
+TRACK 01 MD5: 46FBDCCBE61654218D3C0A944591A56C
+
+**Description:**
+
